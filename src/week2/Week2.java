@@ -36,6 +36,7 @@ public class Week2 {
              System.out.println(list[i].getName()  +  list[i].getAge());
          }
         //push
+        //fetch
         
     }
 }
